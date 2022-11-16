@@ -1,3 +1,0 @@
-@function calcCatalogWidth($item-width, $item-gap, $items-count) {
-  @return ($item-width * $items-count) + ($item-gap * ($items-count - 1));
-}
